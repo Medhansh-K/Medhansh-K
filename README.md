@@ -1,4 +1,4 @@
-```html
+
 <!-- ===================== ANIMATED BANNER ===================== -->
 
 <div align="center">
@@ -155,7 +155,6 @@ Applications that convert raw datasets into visual insights using Python and mod
 </div>
 
 ---
-```
 
 ## ⚡ Philosophy
 
