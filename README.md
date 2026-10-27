@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **21-year-old AI & Data Science engineer** driven by curiosity about **systems, intelligence, and how technology augments human thinking**.
+I’m a **22-year-old AI & Data Science engineer** driven by curiosity about **systems, intelligence, and how technology augments human thinking**.
 
 My work focuses on building **AI-powered platforms, data intelligence systems, and decentralized applications** that transform complex data into meaningful insights.
 
