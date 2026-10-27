@@ -1,5 +1,35 @@
-<h1 align="center">Hi 👋, I'm Medhansh</h1>
-<h3 align="center">AI & Data Systems Builder | Exploring Ideas Through Code</h3>
+```html
+<!-- ===================== ANIMATED BANNER ===================== -->
+
+<div align="center">
+
+  <img
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    alt="Developer Animation"
+    width="100%"
+  />
+
+  <br><br>
+
+  <h1>Hi 👋, I'm Medhansh</h1>
+
+  <h3>AI & Data Systems Builder | Exploring Ideas Through Code</h3>
+
+  <br>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:Medhanshk10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
 
 ---
 
@@ -99,21 +129,33 @@ Applications that convert raw datasets into visual insights using Python and mod
 
 ## 🤝 Open to Collaborate On
 
-- AI / Machine Learning projects  
-- Blockchain & smart contract systems  
-- Data intelligence platforms  
-- Innovative developer tools  
+- AI / Machine Learning projects
+- Blockchain & smart contract systems
+- Data intelligence platforms
+- Innovative developer tools
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** Medhanshk10@gmail.com  
+<div align="left">
 
-💼 LinkedIn  
-🌐 Portfolio (coming soon)
+  <a href="www.linkedin.com/in/medhansh-khedekar45">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="justmk.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:Medhanshk10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
 
 ---
+```
 
 ## ⚡ Philosophy
 
